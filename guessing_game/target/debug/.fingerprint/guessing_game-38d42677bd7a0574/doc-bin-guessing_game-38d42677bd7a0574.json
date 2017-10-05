@@ -1,0 +1,1 @@
+{"rustc":13726346269570251780,"features":"[]","target":7837054541561979488,"profile":17879379437418342571,"deps":[["rand v0.3.16",4466640282887447162],["rand v0.3.16",2734457636964949613]],"local":{"Precalculated":"1507227276.861566633s (/home/chris/projects/guessing_game/guessing_game/src/main.rs)"},"rustflags":[]}
